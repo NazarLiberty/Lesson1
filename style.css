@@ -5,31 +5,30 @@
 .margin-down{
     margin-bottom: 20px;
 }
-
 .sideleft{
     float: left;
-    width: 40%;
-    margin-left: 4%;
+    width: auto;
+    margin-left: 15%;
 }
 
 .sideleft img{
-    width: 340px;
+    width: 350px;
     height: auto;
     border-radius: 15px;
 
 }
 
 .sideright{
+    text-align: center;
     float: right;
-    width: 50%;
-    margin-right: 5%;
+    width: 35%;
+    margin-right: 10%;
     margin-top: 13px;
 }
-p{
-    text-align: center;
-}
-h3{
-    text-align: center;
+.sideright img{
+    width: 32px;
+    height: 32px;
+    margin: 10px;
 }
 h1{
     text-align: center;
