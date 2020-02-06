@@ -1,0 +1,40 @@
+.border{
+    border:1px black solid; width: 25%; margin:auto;
+    border-radius: 100px;
+}
+.margin-down{
+    margin-bottom: 20px;
+}
+
+.sideleft{
+    float: left;
+    width: 40%;
+    margin-left: 4%;
+}
+
+.sideleft img{
+    width: 340px;
+    height: auto;
+    border-radius: 15px;
+
+}
+
+.sideright{
+    float: right;
+    width: 50%;
+    margin-right: 5%;
+    margin-top: 13px;
+}
+p{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: azure;
+}
