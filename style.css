@@ -72,17 +72,17 @@ main{
 #right div:first-of-type p{
     font-family: 'Odibee Sans', cursive;
     font-size: 20px;
-    margin: 15px 0 15px 0;
+    margin: 10px 0 5px 0;
     color: white;
 }
 #right div:first-of-type p:first-of-type{
     font-family: 'Odibee Sans', cursive;
     font-size: 40px;
-    margin: 15px 0 15px 0;
+    margin: 5px 0 5px 0;
 }
 #right div:first-of-type p:nth-of-type(1n+2):hover{
     font-family: 'Odibee Sans', cursive;
-    font-size: 23px;
+    font-size: 21px;
 }
 #right div:first-of-type:hover, #right div:last-of-type:hover{
     box-shadow: green 0 0 40px;
