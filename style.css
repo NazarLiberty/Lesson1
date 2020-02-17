@@ -4,7 +4,8 @@
 }
 
 body{
-  background: radial-gradient(ellipse at top, #213020 0%, #000000 70%)
+   background: radial-gradient(ellipse at top, #213020 0%, #000000 70%);
+   background-color: currentColor;
 }
 header {
     background-image: repeating-linear-gradient(-45deg, rgba(0, 121, 20, 0.082),
@@ -68,6 +69,8 @@ main{
     border: 1px rgba(0, 185, 46, 0.733) solid;
     border-radius: 10px;
     width: 85%;
+    height: 50vh;
+    overflow: auto;
 }
 #right div:first-of-type p{
     font-family: 'Odibee Sans', cursive;
